@@ -5,12 +5,6 @@ Flutter App que consome dados de uma API implantada na vercel que armazena dados
 - WIdget que mostra uma receita aleatória
 - Favoritar receitas e salvar localmente os IDs favoritos
 
-## Dados da API
-- API de um livro de Receitas implantada na **Vercel** [https://receitasapi-b-2025.vercel.app/](https://receitasapi-b-2025.vercel.app/)
-- Repositório da API (Back-End) no [Github](https://github.com/wellifabio/receitasapp-expo-2025.git)
-- Site do livro de Receitas [Web](https://wellifabio.github.io/receitas-web-2025/) consumindo a API
-- Repositório do Site (Front-End) no [Github](https://github.com/wellifabio/receitasapi-b-2025)
-
 ## Tecnologias
 - Flutter (Dart)
 - VsCode
@@ -27,8 +21,6 @@ flutter run
 
 <details>
 <summary>
-<h2>Screenshots</h2>
-</summary>
 
 |![Tela01](./assets/screenshots/ss01.png)|![Tela02](./assets/screenshots/ss02.png)|
 |:-:|:-:|
