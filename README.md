@@ -17,5 +17,5 @@ Flutter App que consome dados de uma API implantada na vercel que armazena dados
 flutter pub get
 flutter run
 ```
-#### Se preferir instale o [.APK](./assets/app-release.apk) em celular Android
+
 
